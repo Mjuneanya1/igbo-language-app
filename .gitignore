@@ -1,0 +1,10 @@
+node_modules/
+.gradle/
+build/
+.m2/
+*.log
+.DS_Store
+.env
+.idea/
+*.xcworkspace/
+Pods/
